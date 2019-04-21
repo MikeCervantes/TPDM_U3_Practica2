@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TPDM_U3_Practica2_MiguelC</string>
     <string-array name="array">
-        <item>Selecciona una categoría&#8230;</item>
+        <item>Selecciona una categoría...</item>
         <item>Alimento</item>
         <item>Bebida</item>
     </string-array>
