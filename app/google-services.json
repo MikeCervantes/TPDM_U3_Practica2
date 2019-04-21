@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822831901013",
+    "firebase_url": "https://tpdmu3vacaciones.firebaseio.com",
+    "project_id": "tpdmu3vacaciones",
+    "storage_bucket": "tpdmu3vacaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822831901013:android:281a4019c69fd504",
+        "android_client_info": {
+          "package_name": "ittepic.edu.tpdm_u3_practica2_miguelc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822831901013-lapf53qciunhtsvn0lqitrp2j438rkle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDOAc5dLBHMF8spLhxSvBgWWVjKHGaqko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822831901013-lapf53qciunhtsvn0lqitrp2j438rkle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
